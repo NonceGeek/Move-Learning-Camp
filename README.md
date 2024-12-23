@@ -1,6 +1,6 @@
-# Web3-dApp-Camp@NonceGeekDAO
+# Move-dApp-Camp@NonceGeekDAO
 
-Focus on: `Move Contract & dApp`, `Elixir`, `Solidity Contract & dApp`
+Focus on: `Move Contract & dApp` - including `Movement`, `Rooch`, `Aptos`, `Sui` ...
 
 > https://noncegeek.com
 
