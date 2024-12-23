@@ -1,4 +1,4 @@
-# Move-dApp-Camp@NonceGeekDAO
+# Move-Camp@NonceGeekDAO
 
 Focus on: `Move Contract & dApp` - including `Movement`, `Rooch`, `Aptos`, `Sui` ...
 
@@ -27,8 +27,8 @@ Web3 dApp Dev Workshop 是线下版本，是基于「桌面游戏理念」的线
 See more details in: 
 > https://github.com/WeLightProject/Web3-dApp-Camp/discussions/2
 
-- Twitter: https://twitter.com/Web3dAppCamp
-- Projects: https://github.com/NonceGeek/Web3-dApp-Camp/discussions/categories/projects
+- Twitter: https://twitter.com/0xleeduckgo
+- Projects: https://github.com/NonceGeek/Move-Camp/discussions/categories/projects
 
 
 
